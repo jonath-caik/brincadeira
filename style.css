@@ -1,0 +1,49 @@
+body {
+  background-color: #000000;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: #0307f3;
+}
+
+a {
+  text-decoration: none;
+
+}
+#resposta{
+    color: aliceblue;
+}
+.yes {
+  font-size: 30px;
+  margin-right: 100px;
+  margin-left: -80px;
+  color: #000000;
+  cursor: pointer;
+  background-color: #4efb04;
+  border: solid 1px #000;
+  border-radius: 10px;
+}
+
+#no {
+  margin-top: 260px;
+  margin-right: -50px;
+  margin-left: 80px;
+  font-size: 40px;
+  color: #000000;
+  background-color: #f40404;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  border: solid 1px #000;
+  border-radius: 10px;
+}
