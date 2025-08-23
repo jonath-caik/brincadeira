@@ -1,6 +1,6 @@
 function mostrarResposta() {
   document.getElementById("resposta").style.display = "block";
-  document.getElementById("resposta").innerHTML = "SABIA, SEU FÃ INCUBADO! KKKKK";
+  document.getElementById("resposta").innerHTML = "vigia crente, vai orar kakakakka";
   document.getElementById("no").style.display = "none";
   document.getElementById("resposta-img").style.display = "block";
   var img = document.getElementById("resposta-img");
